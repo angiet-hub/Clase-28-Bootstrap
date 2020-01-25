@@ -1,0 +1,21 @@
+.card a {
+    color:black!important;
+}
+
+.fa-search {
+    bottom: 10px;
+    left: 175px;
+}
+
+.nav > li {
+    padding: 0 10px 0 10px!important;
+   
+}
+
+.nav-link {
+     color: white!important;
+}
+
+.navbar-collapse {
+    font-size: 14px;
+}
